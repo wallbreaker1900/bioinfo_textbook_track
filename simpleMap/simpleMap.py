@@ -5,9 +5,9 @@ import pysam
 import argparse
 import logging 
 import time
-# what i imported
 from collections import deque
 from collections import defaultdict
+
 logger = logging.getLogger()
 
 """See the comments below to see the code you need to complete.
